@@ -7,6 +7,6 @@ end
 
 def raise_hand
   super
-  10.times {|i| print "Pick me!"}
+  10.times {puts "Pick me!"}
 end
 end
