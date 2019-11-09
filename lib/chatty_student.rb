@@ -7,6 +7,6 @@ end
 
 def pick_me
   super
-  10.times {|i| puts "Pick me!"}
+  10.times {|i| print "Pick me!"}
 end
 end
