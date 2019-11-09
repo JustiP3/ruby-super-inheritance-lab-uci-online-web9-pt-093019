@@ -7,6 +7,9 @@ end
 
 def pick_me
   super
-  10.times {puts "Pick me!"}
+  10.times do 
+    puts "Pick me!"
+  end 
+  
 end
 end
